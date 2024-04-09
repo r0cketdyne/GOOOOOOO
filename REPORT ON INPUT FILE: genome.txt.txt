@@ -1,0 +1,10 @@
+FRAGMENT GCRatio Other messages
+----------------------------------------------------------------------------------------------
+ATCG : Fragment is too short to process.
+GTCA : Fragment is too short to process.
+GGTA : Fragment is too short to process.
+ATGC : Fragment is too short to process.
+---------------------------------------- SUMMARY -----------------------------------------------
+There were 0 fragments found.
+4 fragment was/were not long enough to process.
+The longest fragment found had 0 values
